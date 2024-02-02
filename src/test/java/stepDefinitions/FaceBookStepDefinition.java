@@ -6,7 +6,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ReusableMethods;
 
-public class FaceBookStepDefinitions {
+public class FaceBookStepDefinition {
     @Given("User goes to {string} page")
     public void user_goes_to_page(String istenenURL) {
         Driver.getDriver().get(ConfigReader.getProperty(istenenURL));

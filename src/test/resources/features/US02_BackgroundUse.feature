@@ -9,5 +9,5 @@ Feature: Background  use
 
   Scenario: TC02 user tests searchbox
     When user searches for Selenium
-    Then user tests results Selenium Iphone
+    Then user tests results Selenium
     And  user closes the page

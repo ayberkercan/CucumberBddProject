@@ -1,19 +1,16 @@
 package stepDefinitions;
 
 import io.cucumber.java.en.*; // * koyarsak given when then hepsini Import etmiş oluyoruz.
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Assert;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import pages.AmazonPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ReusableMethods;
 
 
-public class AmazonStepDefinitions {
-    AmazonPage amazonPage = new AmazonPage();
+public class AmazonStepDefinition {
+    AmazonPage amazonPage = new AmazonPage(); // Beklediğimiz locate leri çekebilmemiz için Obje oluşturuyoruz.
     @Given("user goes to amazon page")
     public void user_goes_to_amazon_page() {
         Driver.getDriver().get(ConfigReader.getProperty("amazonURL")); // ConfigReader.getProperty(" link URL tanımlandı.") . configuration.properties de amazon url tanımlanmıştı.
