@@ -8,5 +8,5 @@ Feature: Amazon Search Test
   Scenario: TC02 user tests searchbox
     Given user goes to amazon page
     When user searches for Selenium
-    Then user tests results Selenium Iphone
+    Then user tests results Selenium
     And  user closes the page

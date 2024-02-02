@@ -9,18 +9,24 @@ import org.openqa.selenium.TakesScreenshot;
 import utilities.Driver;
 
 public class Hooks {
+    // Senaryo başlamadan önce çalışacak metot.
     @Before
     public void setUp() {
-        System.out.println("Method run");
+        System.out.println("Method run"); // Metodun çalıştığını konsola yazdırır.
     }
+
+    // Senaryo bittiğinde veya başarısız olduğunda çalışacak metot.
     @After
     public void tearDown(Scenario scenario) {
-     final byte[] screenshot=((TakesScreenshot)Driver.getDriver()).getScreenshotAs(OutputType.BYTES);
-//İf Scenario Failed
-     if(scenario.isFailed()) {
-         scenario.attach(screenshot,"image/png","screenshot");
+        // Senaryonun ekran görüntüsünü almak için WebDriver'ı kullanır.
+        final byte[] screenshot = ((TakesScreenshot)Driver.getDriver()).getScreenshotAs(OutputType.BYTES);
 
+        // Eğer senaryo başarısız olduysa, ekran görüntüsünü rapora ekler.
+        if(scenario.isFailed()) {
+            scenario.attach(screenshot, "image/png", "screenshot");
         }
-     Driver.closeDriver();
+
+        // WebDriver'ı kapatır.
+        Driver.closeDriver();
     }
 }
