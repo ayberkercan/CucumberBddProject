@@ -18,6 +18,7 @@ public class AmazonPage {
     @FindBy(xpath = "//*[@id='sp-cc-rejectall-link']")
     public WebElement cookies;
 
+
     // Arama kutusunu temsil eden WebElement.
     @FindBy(xpath = "//*[@id='twotabsearchtextbox']")
     public  WebElement searchBox;
