@@ -26,4 +26,8 @@ Driver.closeDriver();
     }
 
 
+    @When("Tests whether the {string} exists")
+    public void testsWhetherTheExists(String requestedURL) {
+        Assert.assertTrue(Driver.getDriver().getCurrentUrl().contains(requestedURL));
+    }
 }

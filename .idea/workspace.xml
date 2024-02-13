@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c2">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US06_ScenarioOutline.feature" afterDir="false" />
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c3">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/AmazonStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/AmazonStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/FaceBookStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/FaceBookStepDefinition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +50,15 @@
       <recent name="C:\Users\ayberk.ercan\IdeaProjects\CucumberBddProject\src\test\java\utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 The user searches for the words she wants">
-    <configuration name="Feature: US06_ScenarioOutline" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader">
+    <configuration name="Feature: US07_ScenarioOutlinePractice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US06_ScenarioOutline.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US06_ScenarioOutline" />
+      <option name="SUGGESTED_NAME" value="Feature: US07_ScenarioOutlinePractice" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -71,15 +70,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC01 The user searches for the words she wants -  - Example n°1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1 (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US06_ScenarioOutline.feature:10" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature:9" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
-      <option name="NAME_FILTER" value="^TC01 The user searches for the words she wants$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 The user searches for the words she wants$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC01 The user searches for the words she wants -  - Example n°1" />
+      <option name="NAME_FILTER" value="^TC01 Using scenario outline with Congifrader$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 Using scenario outline with Congifrader$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -91,15 +90,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC01 The user searches for the words she wants -  - Example n°2" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US06_ScenarioOutline.feature:11" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature:10" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
-      <option name="NAME_FILTER" value="^TC01 The user searches for the words she wants$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 The user searches for the words she wants$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC01 The user searches for the words she wants -  - Example n°2" />
+      <option name="NAME_FILTER" value="^TC01 Using scenario outline with Congifrader$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 Using scenario outline with Congifrader$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -111,15 +110,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC01 The user searches for the words she wants -  - Example n°3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US06_ScenarioOutline.feature:12" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature:12" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
-      <option name="NAME_FILTER" value="^TC01 The user searches for the words she wants$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 The user searches for the words she wants$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC01 The user searches for the words she wants -  - Example n°3" />
+      <option name="NAME_FILTER" value="^TC01 Using scenario outline with Congifrader$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 Using scenario outline with Congifrader$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°3" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -131,15 +130,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC01 The user searches for the words she wants" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: TC01 Using scenario outline with Congifrader" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US06_ScenarioOutline.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
-      <option name="NAME_FILTER" value="^TC01 The user searches for the words she wants$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 The user searches for the words she wants$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC01 The user searches for the words she wants" />
+      <option name="NAME_FILTER" value="^TC01 Using scenario outline with Congifrader$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 Using scenario outline with Congifrader$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 Using scenario outline with Congifrader" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: TC01 The user searches for the words she wants" />
-        <item itemvalue="Cucumber Java.Feature: US06_ScenarioOutline" />
-        <item itemvalue="Cucumber Java.Scenario: TC01 The user searches for the words she wants -  - Example n°3" />
-        <item itemvalue="Cucumber Java.Scenario: TC01 The user searches for the words she wants -  - Example n°2" />
-        <item itemvalue="Cucumber Java.Scenario: TC01 The user searches for the words she wants -  - Example n°1" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1 (1)" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°3" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" />
+        <item itemvalue="Cucumber Java.Feature: US07_ScenarioOutlinePractice" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706901769219</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="c3">
+      <created>1706908580954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706908580954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +207,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="c1" />
     <MESSAGE value="c2" />
-    <option name="LAST_COMMIT_MESSAGE" value="c2" />
+    <MESSAGE value="c3" />
+    <option name="LAST_COMMIT_MESSAGE" value="c3" />
   </component>
 </project>
