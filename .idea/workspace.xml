@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c5">
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" afterDir="false" />
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c6">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuappPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HerokuAppStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US09_Practice.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
       <recent name="C:\Users\ayberk.ercan\IdeaProjects\CucumberBddProject\src\test\java\utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 User must be able to enter 5 different records">
+  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 herokuapp adresinden delete butonu calismali">
     <configuration name="Scenario: TC01 User must be able to enter 5 different records" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" />
@@ -72,26 +76,6 @@
     <configuration name="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1 (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature:9" />
-      <option name="GLUE" value="stepDefinitions" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="CucumberBddProject" />
-      <option name="NAME_FILTER" value="^TC01 Using scenario outline with Congifrader$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 Using scenario outline with Congifrader$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature:10" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
@@ -149,13 +133,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scenario: TC01 herokuapp adresinden delete butonu calismali" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US09_Practice.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBddProject" />
+      <option name="NAME_FILTER" value="^TC01 herokuapp adresinden delete butonu calismali$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 herokuapp adresinden delete butonu calismali$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 herokuapp adresinden delete butonu calismali" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: TC01 herokuapp adresinden delete butonu calismali" />
         <item itemvalue="Cucumber Java.Scenario: TC01 User must be able to enter 5 different records" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1 (1)" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°3" />
-        <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707901270666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="c6">
+      <created>1707901410411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707901410411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +234,7 @@
     <MESSAGE value="c3" />
     <MESSAGE value="c4" />
     <MESSAGE value="c5" />
-    <option name="LAST_COMMIT_MESSAGE" value="c5" />
+    <MESSAGE value="c6" />
+    <option name="LAST_COMMIT_MESSAGE" value="c6" />
   </component>
 </project>
