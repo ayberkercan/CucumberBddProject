@@ -21,7 +21,7 @@ Feature: Let's log in 5 different users to the Datatables site.
     And It tests that there is "<firstname>" in the name section.
     Examples:
       | firstname | lastname | position                  | office | extension | startDate  | salary |
-      | Ayberk    | Ercan    | Software QA Test Engineer | Turkey | UI        | 2022-11-07 | 50000  |
+      | Ayberk    | Ercan    | Software QA Test Engineer | Turkey | UI        | 2022-02-02 | 50000  |
 
   Scenario: user closes the page
       Given closes the page

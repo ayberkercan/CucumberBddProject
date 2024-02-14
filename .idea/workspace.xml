@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c4">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DataBasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/DataTablesStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c5">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707830461799</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="c5">
+      <created>1707901270666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707901270666</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +222,7 @@
     <MESSAGE value="c2" />
     <MESSAGE value="c3" />
     <MESSAGE value="c4" />
-    <option name="LAST_COMMIT_MESSAGE" value="c4" />
+    <MESSAGE value="c5" />
+    <option name="LAST_COMMIT_MESSAGE" value="c5" />
   </component>
 </project>
