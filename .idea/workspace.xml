@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c3">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature" afterDir="false" />
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c4">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DataBasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/DataTablesStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/FaceBookStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/FaceBookStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +52,16 @@
       <recent name="C:\Users\ayberk.ercan\IdeaProjects\CucumberBddProject\src\test\java\utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader">
-    <configuration name="Feature: US07_ScenarioOutlinePractice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 User must be able to enter 5 different records">
+    <configuration name="Scenario: TC01 User must be able to enter 5 different records" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_ScenarioOutlinePractice.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US08_ScenarioOutlineClassWork.feature" />
       <option name="GLUE" value="stepDefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="CucumberBddProject" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US07_ScenarioOutlinePractice" />
+      <option name="NAME_FILTER" value="^TC01 User must be able to enter 5 different records$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 User must be able to enter 5 different records$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 User must be able to enter 5 different records" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: TC01 User must be able to enter 5 different records" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1 (1)" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°3" />
         <item itemvalue="Cucumber Java.Scenario: TC01 Using scenario outline with Congifrader -  - Example n°1" />
-        <item itemvalue="Cucumber Java.Feature: US07_ScenarioOutlinePractice" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706908580954</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="c4">
+      <created>1707830461799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707830461799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +218,7 @@
     <MESSAGE value="c1" />
     <MESSAGE value="c2" />
     <MESSAGE value="c3" />
-    <option name="LAST_COMMIT_MESSAGE" value="c3" />
+    <MESSAGE value="c4" />
+    <option name="LAST_COMMIT_MESSAGE" value="c4" />
   </component>
 </project>
