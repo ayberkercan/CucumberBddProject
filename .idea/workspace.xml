@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c6ıjıjefrd">
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c6ıjıjefrdFGG">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715674043257</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="c6ıjıjefrdFGG">
+      <created>1715674825327</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715674825327</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +256,7 @@
     <MESSAGE value="c6ıjıj" />
     <MESSAGE value="c6ıjıjj" />
     <MESSAGE value="c6ıjıjefrd" />
-    <option name="LAST_COMMIT_MESSAGE" value="c6ıjıjefrd" />
+    <MESSAGE value="c6ıjıjefrdFGG" />
+    <option name="LAST_COMMIT_MESSAGE" value="c6ıjıjefrdFGG" />
   </component>
 </project>
