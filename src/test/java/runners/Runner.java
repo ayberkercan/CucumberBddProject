@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
         plugin = {
                 "pretty", // Renkli ve daha okunabilir bir çıktı sağlar.
                 "html:target/cucumber-reports.html", // HTML formatında raporları oluşturur.
-                "json:target/json-report/cucumber.json", // JSON formatında raporları oluşturur.
-                "junit:target/resources/features" // JUnit formatında raporları oluşturur.
+                "json:target/report.json" // JSON formatında raporları oluşturur.
+
         },
         // Özellik dosyalarının (feature files) bulunduğu dizini belirtiyoruz.
         features = "src/test/resources/features",
