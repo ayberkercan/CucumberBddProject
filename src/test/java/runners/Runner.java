@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
         // Step tanımlarının ve hook'ların bulunduğu paketleri belirtiyoruz.
         glue = {"stepDefinitions","src/test/java/hook"},
         // Çalıştırılacak senaryoları belirlemek için etiketler (tags) kullanılır.
-        tags = "", // Boş bırakıldığında tüm senaryoları çalıştırır.
+        tags = "@Scenario1", // Boş bırakıldığında tüm senaryoları çalıştırır.
         // Dry run modunu belirtir. Eğer true ise senaryoların gerçekten çalıştırılmadan kontrol edilmesini sağlar.
         dryRun = false  // false yaparsak browser da  test izlemesini görürüz // false olursa stepdefinitons için adımları verecektir.
 )

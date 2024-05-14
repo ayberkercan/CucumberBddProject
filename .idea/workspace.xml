@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c6ıjıjefrdFGGchf" />
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c6ıjıjefrdFGGchfs">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
       <recent name="C:\Users\ayberk.ercan\IdeaProjects\CucumberBddProject\src\test\java\utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: US01_amazonSearch">
+  <component name="RunManager" selected="JUnit.Runner">
     <configuration name="Feature: US01_amazonSearch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US01_amazonSearch.feature" />
@@ -143,9 +145,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Feature: US01_amazonSearch" />
         <item itemvalue="Cucumber Java.Scenario: TC01 User tests login with valid information" />
-        <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Scenario: TC01 herokuapp adresinden delete butonu calismali" />
         <item itemvalue="Cucumber Java.Scenario: TC01 User must be able to enter 5 different records" />
       </list>
@@ -237,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715675294663</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="c6ıjıjefrdFGGchfs">
+      <created>1715676436564</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715676436564</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +272,7 @@
     <MESSAGE value="c6ıjıjefrd" />
     <MESSAGE value="c6ıjıjefrdFGG" />
     <MESSAGE value="c6ıjıjefrdFGGchf" />
-    <option name="LAST_COMMIT_MESSAGE" value="c6ıjıjefrdFGGchf" />
+    <MESSAGE value="c6ıjıjefrdFGGchfs" />
+    <option name="LAST_COMMIT_MESSAGE" value="c6ıjıjefrdFGGchfs" />
   </component>
 </project>
