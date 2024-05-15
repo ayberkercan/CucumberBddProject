@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="c6ıjıjefrdFGGchfsıjı" />
+    <list default="true" id="de09dd9b-e5d4-4caa-9faa-4db1a56d71f0" name="Changes" comment="t1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="CucumberBddProject" />
       <extension name="coverage">
         <pattern>
@@ -143,7 +146,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Feature: US01_amazonSearch" />
         <item itemvalue="Cucumber Java.Scenario: TC01 User tests login with valid information" />
         <item itemvalue="Cucumber Java.Scenario: TC01 herokuapp adresinden delete butonu calismali" />
@@ -251,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715685399424</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="t1">
+      <created>1715756210053</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715756210053</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +288,7 @@
     <MESSAGE value="c6ıjıjefrdFGGchf" />
     <MESSAGE value="c6ıjıjefrdFGGchfs" />
     <MESSAGE value="c6ıjıjefrdFGGchfsıjı" />
-    <option name="LAST_COMMIT_MESSAGE" value="c6ıjıjefrdFGGchfsıjı" />
+    <MESSAGE value="t1" />
+    <option name="LAST_COMMIT_MESSAGE" value="t1" />
   </component>
 </project>
